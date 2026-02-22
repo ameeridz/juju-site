@@ -6,12 +6,12 @@ $(document).ready(function () {
 });
 
 /*------------------------------------- Designer Text Animation -------------------------------------*/
-firstText = "Designer";
-secondText = "Developer";
-thridText = "Freelancer"
-fourthText = "Freelancer";
-fifthText = "Back-End Web Developer";
-sixthText = "Full stack Developer"
+firstText = "Cyber Security Governance";
+secondText = "Ethical Hacking";
+thridText = "Cyber Security Consultant"
+fourthText = "CySA+ [CompTIA Cyber Security Analyst]";
+fifthText = "ISC2 Certified in Cyber Security";
+sixthText = "Offensive Security"
 intervalTime = 600;
 window.load = displayText();
 window.load = displayText2();
