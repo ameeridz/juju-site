@@ -9,7 +9,7 @@ $(document).ready(function () {
 firstText = "Cyber Security Governance";
 secondText = "Ethical Hacking";
 thridText = "Cyber Security Consultant"
-fourthText = "CySA+ [CompTIA Cyber Security Analyst]";
+fourthText = "CompTIA Cyber Security Analyst";
 fifthText = "ISC2 Certified in Cyber Security";
 sixthText = "Offensive Security"
 intervalTime = 600;
