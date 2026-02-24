@@ -9,7 +9,7 @@ $(document).ready(function () {
 firstText = "Cyber Security Governance";
 secondText = "Ethical Hacking";
 thridText = "Cyber Security Consultant"
-fourthText = "CySA+ [CompTIA Cyber Security Analyst]";
+fourthText = "CompTIA Cyber Security Analyst";
 fifthText = "ISC2 Certified in Cyber Security";
 sixthText = "Offensive Security"
 intervalTime = 600;
@@ -158,10 +158,10 @@ $(document).ready(function () {
         autoplay: true,
         arrows: false,
         dots: true,
-        speed: 1000,
+        speed: 10000,
         responsive: [
             {
-                breakpoint: 991,
+                breakpoint: 991,3
                 settings: {
                     slidesToShow: 1,
                     slidesToScroll: 1,
